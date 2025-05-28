@@ -14,7 +14,7 @@
 #### Цели и методологию тестирования, описание тестового сценария, результаты тестирования см. в [Peport(Demo)](https://github.com/AliaksandrPatapenka/JmeterDemo/blob/main/Peport(Demo)%20.docx)
 
 
-##### Ниже приведепы примеры реализации тестового сценария:
+##### Ниже приведены примеры реализации тестового сценария:
 1. Общая структура тестового сценария
 ![S1](https://github.com/user-attachments/assets/c4e8fe2d-51fa-4cdd-8ec8-72c8a5f321c8)
 
@@ -23,7 +23,7 @@
 ![S2](https://github.com/user-attachments/assets/a1303c6d-9a44-4b28-ba2d-3b91436409ca)
 
 
-3. Пример реализации процесса авторизации на  тестовомпортале
+3. Пример реализации процесса авторизации на  тестовом портале
 ![S3](https://github.com/user-attachments/assets/6004fa55-42e1-4f8a-bc12-67eb95af717f)
 
 
