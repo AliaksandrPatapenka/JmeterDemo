@@ -14,4 +14,4 @@
 - InfluxDB 1.8
 - Grafana 7.0.0
 
-  Цели и методологию тестирования, описание тестового сценария, результаты тестирования см. в [Peport(Demo)](./Peport(Demo) .docx)
+  Цели и методологию тестирования, описание тестового сценария, результаты тестирования см. в [Peport(Demo)](https://github.com/AliaksandrPatapenka/JmeterDemo/blob/main/Peport(Demo)%20.docx)
